@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Electric Shop</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Electric Shop</h1>
+    <nav>
+      <ul>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#appliances">Appliances</a></li>
+        <li><a href="#households">Households</a></li>
+        <li><a href="#solar">Solar Systems</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="services">
+    <h2>Electric Services</h2>
+    <p>Here you can find a range of electric services to meet your needs.</p>
+    <!-- Add more details about the services offered -->
+  </section>
+
+  <section id="appliances">
+    <h2>Electrical Appliances</h2>
+    <p>Discover a wide selection of electrical appliances for your home or office.</p>
+    <!-- Add product listings or categories of appliances -->
+  </section>
+
+  <section id="households">
+    <h2>Household Electrical Items</h2>
+    <p>Explore a variety of household electrical items to simplify your life.</p>
+    <!-- Add product listings or categories of household items -->
+  </section>
+
+  <section id="solar">
+    <h2>Solar Systems</h2>
+    <p>Harness the power of the sun with our solar systems and accessories.</p>
+    <!-- Add product listings or categories of solar systems -->
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Electric Shop. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
